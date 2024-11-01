@@ -1,0 +1,21 @@
+.container{
+    margin: 50px 0;
+    text-align: center;
+}
+.container h1{
+    color: royalblue;
+    margin-bottom: 30px;
+}
+.container a{
+    color: rgb(168, 183, 227);
+    background-color: rgb(150, 146, 191);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+
+}
+.container a:hover{
+    color: blue;
+    background-color: rgb(190, 215, 215);
+
+}
